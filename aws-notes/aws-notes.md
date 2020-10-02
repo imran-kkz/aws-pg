@@ -38,6 +38,8 @@ Notes before we begin:
 - if you let EB create the RDS instance, that means when you delete your env, it will delete the database. this setup is intended for dev and test envs
 - Dockerrun.aws.json is similar to a ECS task definition file and defines multi container configuration
 
+*** 
+
 # Elastic Beanstalk
 
 ## What is a PAAS
