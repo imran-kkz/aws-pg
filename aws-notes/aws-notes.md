@@ -107,3 +107,5 @@ Notes before we begin:
   - if you have any databases running in EB - they will also be terminated
 - If you run a blue/green deploy, it will mainly be when you have a database outside of your specific EB environment, and want to keep your data
   
+### EB Config Files
+- EB environments can be customized
