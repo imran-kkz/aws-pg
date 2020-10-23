@@ -14,3 +14,10 @@ AttributeName=Registry,KeyType=RANGE \
 ReadCapacityUnits=1,WriteCapacityUnits=1 \
 --region ca-central-1
 ```
+
+## Batch Write-Item
+
+```
+aws dynamodb batch-write-item --request-items file://batch-item2.json
+
+```

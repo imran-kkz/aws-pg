@@ -1,0 +1,146 @@
+[
+  {
+    "name": "USS Defiant",
+    "registry": "NCC-75633",
+    "ship_class": "Defiant",
+    "description": "Formerly the USS São Paulo. Assigned to space station Deep Space Nine. Participates in the Battle of Cardassia."
+  },
+  {
+    "name": "SS Vico",
+    "registry": "NAR-18834",
+    "ship_class": "Oberth",
+    "description": "Research vessel that was in service with Starfleet in the mid-24th century. This ship was on loan to a civilian agency, and was given a civilian registry. Vico operated out of Starbase 514. In 2368, the Vico explored an astronomical formation known as a black cluster. Found derelict by Enterprise-D."
+  },
+  {
+    "name": "USS Raven",
+    "registry": "NAR-32450",
+    "ship_class": "Undetermined",
+    "description": "Science and exploration vessel used by the Hansens for exploration of the Delta Quadrant where Seven of Nine was assimilated by the Borg."
+  },
+  {
+    "name": "USS YorktownUSS Enterprise (from 2286)",
+    "registry": "NCC 1717",
+    "ship_class": "Constitution refit",
+    "description": "Disabled by whale probe, then possibly salvaged and renamed Enterprise; although no onscreen evidence supports this. Command given to James T. Kirk following his demotion to Captain. Primary setting for Star Trek V: The Final Frontier and Star Trek VI: The Undiscovered Country, later decommissioned."
+  },
+  {
+    "name": "USS Houston",
+    "registry": "NCC 97284",
+    "ship_class": "Odyssey",
+    "description": "The Houston, commanded by Admiral D'Vak, lead the federation in an assault against the Borg Queen's Octahedron in the space around the Unicomplex."
+  },
+  {
+    "name": "USS Kelvin",
+    "registry": "NCC-0514",
+    "ship_class": "Einstein",
+    "description": "In the timeline at the start of the movie Star Trek, the Kelvin was in service with Starfleet in the early 23rd century. In 2233, the Kelvin was under the command of Captain Richard Robau; his first officer was Lieutenant Commander George Kirk. Kirk's wife, Winona, was also aboard the ship at that time while she was pregnant with their son, James T. Kirk. The Kelvin was destroyed by the Romulan mining ship Narada, which arrived from the distant future through an artificial black hole. Named for director J. J. Abrams' grandfather. Its registry number, NCC-0514, comes from Abrams's birthdate of May 14."
+  },
+  {
+    "name": "USS Endeavour",
+    "registry": "NCC-06",
+    "ship_class": "Columbia",
+    "description": "Originally the last active NX class starship in the Earth Starfleet. Transferred to Federation Starfleet service and rebuilt into the first Columbia class starship."
+  },
+  {
+    "name": "USS T'Plana-Hath",
+    "registry": "NCC-1004",
+    "ship_class": "Engle",
+    "description": "Destroyed at the Battle at the Binary Stars."
+  },
+  {
+    "name": "USS Constellation",
+    "registry": "NCC-1017",
+    "ship_class": "Constitution",
+    "description": "Commanded by Commodore Matthew Decker. All of crew was killed by the Doomsday Machine except for Commodore Decker. Used as a bomb to destroy the planet-killer."
+  },
+  {
+    "name": "USS Crossfield",
+    "registry": "NCC-1029",
+    "ship_class": "Crossfield",
+    "description": "Presumable namesake ship for the class."
+  },
+  {
+    "name": "USS Glenn",
+    "registry": "NCC-1030",
+    "ship_class": "Crossfield",
+    "description": "Sister ship to the Discovery. Scuttled following a failed propulsion experiment."
+  },
+  {
+    "name": "USS Discovery",
+    "registry": "NCC-1031",
+    "ship_class": "Crossfield",
+    "description": "Titular ship in 2017 television series Star Trek: Discovery. Initially commanded by Captain Gabriel Lorca, and later by Captain Christopher Pike, the Discovery is a science vessel commissioned to investigate potential forms of faster-than-light propulsion such as the spore drive."
+  },
+  {
+    "name": "USS Hermes",
+    "registry": "NCC-10376",
+    "ship_class": "Antares",
+    "description": "Part of the tachyon blockade during the Klingon Civil War."
+  },
+  {
+    "name": "USS Earhart",
+    "registry": "NCC-1052",
+    "ship_class": "Engle",
+    "description": "Fought at the Battle at the Binary Stars."
+  },
+  {
+    "name": "USS Horatio",
+    "registry": "NCC-10532",
+    "ship_class": "Ambassador",
+    "description": "Commanded by Captain Walker Keel. Destroyed by agents of an alien conspiracy to take over Starfleet."
+  },
+  {
+    "name": "USS Ajax",
+    "registry": "NCC-11574",
+    "ship_class": "Apollo",
+    "description": "Cortin Zweller's first assignment. Received experimental warp drive technology. Part of the tachyon blockade during the Klingon Civil War."
+  },
+  {
+    "name": "USS Agamemnon",
+    "registry": "NCC-11638",
+    "ship_class": "Apollo",
+    "description": "Part of the tachyon blockade during the Klingon Civil War. Part of \"Task Force 3\" sent to face an anticipated Borg attack."
+  },
+  {
+    "name": "USS Gage",
+    "registry": "NCC-11672",
+    "ship_class": "Apollo",
+    "description": "Destroyed at the Battle of Wolf 359."
+  },
+  {
+    "name": "USS Clement",
+    "registry": "NCC-12537",
+    "ship_class": "Apollo",
+    "description": "Scheduled to rendezvous with the Enterprise-D."
+  },
+  {
+    "name": "USS Kerala",
+    "registry": "NCC-1255",
+    "ship_class": "Shepard",
+    "description": "Destroyed at the Battle at the Binary Stars."
+  },
+  {
+    "name": "USS Ride",
+    "registry": "NCC-1265",
+    "ship_class": "Shepard",
+    "description": "Fought at the Battle at the Binary Stars."
+  },
+  {
+    "name": "USS Gagarin",
+    "registry": "NCC-1309",
+    "ship_class": "Shepard",
+    "description": "Ambushed and destroyed by the Klingons."
+  },
+  {
+    "name": "USS Republic",
+    "registry": "NCC-1371",
+    "ship_class": "Constitution",
+    "description": "Although many reference sources included Republic as a Constitution-class heavy cruiser, its status in canon is, to date, uncertain. Kirk himself stated in the episode \"Court Martial\" the ship's nomenclature as \"United Starship Republic, number 1371\"."
+  },
+  {
+    "name": "USS Okinawa",
+    "registry": "NCC-13958",
+    "ship_class": "Excelsior",
+    "description": "Ship commanded by Admiral James Leyton and on which Benjamin Sisko served as first officer."
+  }
+]
